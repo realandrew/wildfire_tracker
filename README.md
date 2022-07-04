@@ -10,7 +10,7 @@ Note: The non-authenticated version of the NASA API has limits of 30 requests pe
 - modern-normalize [link](https://github.com/sindresorhus/modern-normalize)
 - OpenLayers [link](https://openlayers.org/)
 
-## Freely licensed under the MIT licensed
+## Freely licensed under the MIT license
 
 Feel free to use this project however you wish, it's freely available under the MIT license.
 See the [LICENSE.txt](LICENSE.txt).
